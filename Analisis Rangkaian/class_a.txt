@@ -1,0 +1,1 @@
+Rangkaian amplifier class A menghasilkan output yang berupa setengah gelombang sinus, dimana setengah yang dihasilkan oleh rangkaian amplifier class A ini merupakan bagian puncaknya. Rangkaian ini bekerja dengan cara
